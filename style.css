@@ -1,0 +1,31 @@
+Title {
+    display: block;
+    padding: 20px;
+    background-color: navy;
+    color: gold;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+}
+
+Song {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+
+Name, Artist, Genre, Year {
+    display: block;
+    text-align: center;
+}
+
+Name {
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+Artist, Genre, Year {
+    font-size: 15px;
+    font-style: italic;
+}

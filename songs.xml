@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
 <SetList>
+    <Title>Sean's XML Song List</Title>
     <Song>
         <Name>Ski</Name>
-        <Artist>Young Thug. Gunna</Artist>
+        <Artist>Young Thug, Gunna</Artist>
         <Genre>Hip-Hop/Rap</Genre>
         <Year>2021</Year>
     </Song>
     <Song>
         <Name>Dilemma</Name>
-        <Artist>Nelly. Kelly Rowland</Artist>
+        <Artist>Nelly, Kelly Rowland</Artist>
         <Genre>RNB</Genre>
         <Year>2002</Year>
     </Song>
